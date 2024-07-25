@@ -1,4 +1,4 @@
-bookPath = "books/frankenstein.txt"
+bookPath = "README.md"
 
 def readContent(input):
     with open(input) as f:
