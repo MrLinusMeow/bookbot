@@ -1,4 +1,4 @@
-bookPath = "README.md"
+bookPath = "LICENSE"
 
 def readContent(input):
     with open(input) as f:
